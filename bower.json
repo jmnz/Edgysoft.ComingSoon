@@ -1,0 +1,28 @@
+{
+  "name": "edgysoft.web",
+  "homepage": "edgysoft.com.ve",
+  "authors": [
+    "(jmnz <jesusjimenez@edgysoft.com.ve>)"
+  ],
+  "description": "web page for edgysoft",
+  "main": "index.html",
+  "keywords": [
+    "web",
+    "design",
+    "agency",
+    "website"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6",
+    "jquery": "^3.1.1"
+  }
+}
